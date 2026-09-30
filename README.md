@@ -69,7 +69,7 @@ Supervised by **Dr. Dina Khattab**
 - Fatma Elzahraa Atef
 - Hossam Eldin Ahmed
 
-> Original team repository: https://github.com/Guest-Satisfaction-Prediction/Guest-Satisfaction-Prediction-ML-Project-
+> Original team repository: [https://github.com/Guest-Satisfaction-Prediction/Guest-Satisfaction-Prediction-ML-Project-](https://github.com/Guest-Satisfaction-Prediction/Guest_Satisfaction_Prediction-ML_Project-)
 
 ## My Contribution
 - **Feature Selection:** worked on selecting the most informative features (SelectKBest with f_classif, Random Forest importance, and their union) to reduce dimensionality and overfitting.
